@@ -1,5 +1,1 @@
-Print("hello")
-Print("heddllo")
-Print("hello")
-Print("heddllo")
-
+print("Five is greater than two!")
